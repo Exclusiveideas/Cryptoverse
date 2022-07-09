@@ -5,7 +5,7 @@
 Using React, ant-design and multiple API's powered by https://rapidapi.com, I built a web application that display up to 100 top cryptocurrencies along with various data on them such as market cap, traded volume, realtim-time chart representation and news.
 
 ## Setup 
-run ```npm i && npm start``` to start the app
+To test this application on your machine, clone this repository and run ```npm i && npm start``` to start the app
 
 ## Live Version
 To view the live version of cryptoverse, visit https://cryptoverse-daf7a.web.app
